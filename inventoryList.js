@@ -59,7 +59,3 @@ console.log(array.getList());
 array.remove('Emmanuel');
 
 console.log(array.getList());
-
-
-
-
